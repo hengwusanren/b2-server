@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b57e599-a153-4dab-80ca-d656c8c7aa67" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/b2-server/.idea/workspace.xml" afterPath="$USER_HOME$/WebstormProjects/b2-server/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8b57e599-a153-4dab-80ca-d656c8c7aa67" name="Default" comment="" />
     <ignored path="b2-server_v0.1.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -254,7 +252,13 @@
       <option name="project" value="LOCAL" />
       <updated>1438836277054</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1438836645497</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1438836645497</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
